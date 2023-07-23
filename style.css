@@ -41,6 +41,10 @@
   border-width: 8px;
   border-color: black;
 }
+#I { 
+  align-text: center;
+  text-size: 55px;
+}
 #J {
   border-style: inset;
   border-width: 8px;
