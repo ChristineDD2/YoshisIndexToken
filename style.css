@@ -37,14 +37,14 @@
   text-size: 75px;
 }
 #G {
-  border-style: dotted;
+  border-style: inset;
   border-width: 8px;
   border-color: black;
   align-border: right, 35px;
 
 }
 #J {
-  border-style: dotted;
+  border-style: inset;
   border-width: 8px;
   border-color: black;
   align-border: right, 35px;
