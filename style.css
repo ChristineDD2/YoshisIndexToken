@@ -49,3 +49,9 @@
   border-color: black;
   align-border: right, 35px;
 }
+#M {
+  border-style: inset;
+  border-width: 8px;
+  border-color: black;
+  align-border: right, 35px;
+}
