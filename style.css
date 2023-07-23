@@ -1,0 +1,37 @@
+#A {
+  text-size: 75px;
+  border-style: solid;
+  border-color: black;
+  border-width: 10px;
+  align-text: center
+}
+#B {
+  text-size: 35px;
+  border-style: solid;
+  border-color: black;
+  border-width: 10px;
+  align-text: center;
+}
+#C {
+  color: grey;
+  text-size: 18px;
+  align-text: left;
+}
+#D {
+  text-size: 18px;
+  align-text: left;
+}
+#E {
+  color: grey;
+  align-text: center;
+}
+#F {
+  align-text: center;
+  color: grey;
+  text-size: 75px;
+}
+#G {
+  border-style: dotted;
+  border-width: 8px;
+  border-color: black;
+}
