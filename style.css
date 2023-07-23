@@ -1,12 +1,12 @@
 #A {
-  text-size: 75px;
+  size: 75px;
   border-style: solid;
   border-color: black;
   border-width: 10px;
   align-text: center
 }
 #B {
-  text-size: 35px;
+  size: 35px;
   border-style: solid;
   border-color: black;
   border-width: 10px;
@@ -18,20 +18,22 @@
   align-text: left;
 }
 #D {
-  text-size: 18px;
+  size: 18px;
   align-text: left;
 }
 #E {
-  color: grey;
-  align-text: center;
+  color: black;
+  align-text: left;
 }
 #F {
   align-text: center;
-  color: grey;
+  color: black;
   text-size: 75px;
 }
 #G {
   border-style: dotted;
   border-width: 8px;
   border-color: black;
+  align-border: right, 35px;
+
 }
