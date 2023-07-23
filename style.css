@@ -43,3 +43,9 @@
   align-border: right, 35px;
 
 }
+#J {
+  border-style: dotted;
+  border-width: 8px;
+  border-color: black;
+  align-border: right, 35px;
+}
