@@ -18,6 +18,11 @@
   border-width: 10px;
   text-align: center;
 }
+#BB {
+  color: white;
+  align-text: center;
+  text-size: 50px;
+}
 #C {
   color: grey;
   text-size: 18px;
