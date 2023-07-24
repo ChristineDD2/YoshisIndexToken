@@ -55,6 +55,12 @@
   border-width: 8px;
   border-color: black;
 }
+
+#ZZ {
+  border-style: inset;
+  border-width: 8px;
+  border-color: black;
+  }
 #M {
   border-style: inset;
   border-width: 8px;
